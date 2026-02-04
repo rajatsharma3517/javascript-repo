@@ -1,7 +1,7 @@
 var n=2;
-function sqaure(num){
+function square(num){
     var ans = num*num;
     return ans;
 }
-sqaure2 = sqaure(n);
-sqaure4 = sqaure(4);
+square2 = square(n);
+square4 = square(4);
