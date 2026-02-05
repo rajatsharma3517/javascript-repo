@@ -6,4 +6,5 @@ function y(){
     return y;
 }
 var z = x();
+
 console.log(z);
