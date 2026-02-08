@@ -8,3 +8,5 @@ function y(){
 var z = x();
 console.log(z);
 z();
+
+// printed z
