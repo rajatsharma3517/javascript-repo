@@ -6,4 +6,5 @@ function x(){
     }
     console.log("hey this is me");
 }
+
 x();
