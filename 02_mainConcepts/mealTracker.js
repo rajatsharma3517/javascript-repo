@@ -1,4 +1,4 @@
-const monthlyBudget = 1500; 
+const monthlyBudget = 2000; 
 let totalSpent = 0; 
 let totalProtein = 0;   
 let totalCalories = 0;
