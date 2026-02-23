@@ -1,4 +1,4 @@
-function a() {
+function x() {
     console.log("Function A");
 }
 
@@ -7,4 +7,4 @@ function b(param) {
     param();
 }
 
-b(a);
+b(x);
