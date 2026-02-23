@@ -1,4 +1,4 @@
-function a(){
+function x(){
     console.log("Hey this is a function statement");
 }
 
