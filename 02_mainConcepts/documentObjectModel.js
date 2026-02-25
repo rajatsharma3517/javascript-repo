@@ -6,3 +6,10 @@ document.getElementById('ANY-ID');
 document.querySelector('.ANY-CLASS-NAME');
 //How we can select any query and we use a dot because of class
 
+document.createElement('div');
+div.className = "main"
+div.setAttribute('title');
+div.style.backgroundColor = 'green';
+
+// creating a div and giving its properties
+
