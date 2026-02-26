@@ -1,0 +1,26 @@
+#main{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.container{
+    margin-top: 100px;
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+#grey{
+    background-color: grey;
+}
+#blue{
+    background-color: blue;
+}
+#green{
+    background-color: green;
+}
+#yellow{
+    background-color: yellow;
+}
