@@ -6,7 +6,7 @@ document.getElementById('owl').onclick = function() {
     alert("Owl clicked");
 }
 
-
+//addEventListener
 document.getElementById('owl').addEventListener('click', function(e) {
     alert("Owl clicked");
 }, false);
