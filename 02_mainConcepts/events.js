@@ -1,4 +1,4 @@
-//inline
+//it is inline
 <img src="owl.jpg" id="owl" onclick="alert('owl clicked')" />
 
 // element properties
