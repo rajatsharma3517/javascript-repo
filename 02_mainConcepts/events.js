@@ -1,7 +1,7 @@
 //it is inline
 <img src="owl.jpg" id="owl" onclick="alert('owl clicked')" />
 
-// element properties
+// element properties here
 document.getElementById('owl').onclick = function() {
     alert("Owl clicked");
 }
