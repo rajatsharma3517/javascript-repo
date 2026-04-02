@@ -5,7 +5,7 @@ let totalCalories = 0;
 
 const mealName = "Oats and 4 Eggs";
 const mealCostString = "85.50"; 
-const mealProteinString = "24"; 
+const mealProteinString = "25"; 
 const mealCaloriesString = "350";
 
 const mealCost = Number(mealCostString);
