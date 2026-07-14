@@ -7,7 +7,7 @@ function startCountdown(seconds) {
 
         if (counter < 0) {
             clearInterval(interval);
-            console.log("Time's up!");
+            console.log("Time is up!");
         }
     }, 1000);
 }
